@@ -16,3 +16,4 @@ Este repositorio contiene los tres ejercicios prácticos desarrollados como part
 Se creó un formulario para validar los datos ingresados por el usuario. El formulario incluye campos para nombre, correo electrónico y edad. 
 Se valida que los campos no estén vacíos y que el correo electrónico tenga un formato válido. Si la validación es exitosa, se muestra un mensaje de éxito; 
 de lo contrario, se muestran mensajes de error específicos para cada campo.
+
